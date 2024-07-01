@@ -1,5 +1,5 @@
 # Cabin Hill
-Proyecto de programación gráfica en el que se muestra un paseo virtual con tematica de suspenso implementando graficas 3D por medio del uso de C++ y OpenGL.
+Proyecto de programación gráfica en el que se muestra un paseo virtual con tematica de suspenso y música presente implementando graficas 3D por medio del uso de C++ y OpenGL.
 
 Controles: 
 
