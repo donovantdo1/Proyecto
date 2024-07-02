@@ -4,6 +4,9 @@
 
 Graphic programming project featuring a virtual tour with a suspense theme and accompanying music, implemented using 3D graphics through C++ and OpenGL.
 
+![Screenshot1](https://github.com/donovantdo1/Proyecto/blob/main/Screenshots/cabin1.png)
+
+
 # Instructions 
 
 1. Open your Visual Studio Community.
