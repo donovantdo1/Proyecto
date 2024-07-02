@@ -13,6 +13,15 @@ Graphic programming project featuring a virtual tour with a suspense theme and a
 6. Try running the programm.
 7. Enjoy the ride!
 
+# Movement
+
+"W": go forward .
+"A": move to the left.
+"S": go backwards.
+"D": move to the right.
+
+Use the mouse to look around!
+
 # Showcase video link
 
 https://drive.google.com/file/d/1wzo43fFBXyjJ0dNaVB45vE5_pAfh3ML4/view
