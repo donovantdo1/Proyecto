@@ -18,10 +18,10 @@ Graphic programming project featuring a virtual tour with a suspense theme and a
 
 # Movement
 
-"W": go forward .
-"A": move to the left.
-"S": go backwards.
-"D": move to the right.
+- "W": go forward .
+- "A": move to the left.
+- "S": go backwards.
+- "D": move to the right.
 
 Use the mouse to look around!
 
